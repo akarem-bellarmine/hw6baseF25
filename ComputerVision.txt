@@ -1,0 +1,1 @@
+Computer vision is a CS sub-discipline that involves machines representing, interpreting, and responding to the visual world from digital images and videos. It is largely predicated on the use of machine learning models to perform pattern recognition tasks, which include object identification, motion detection and classification, and pose estimation.
