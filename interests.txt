@@ -1,0 +1,3 @@
+I am very interested in programming and software development. I enjoy learning new programming languages and understanding how different software architectures work. Developing applications allows me to solve real-world problems and see the immediate impact of my work. I am particularly fascinated by how software design patterns can improve code readability and maintainability.
+
+In the future, I want to deepen my knowledge in software engineering practices, including version control, testing, and agile methodologies. I also aim to explore full-stack development, so I can contribute to both the front-end and back-end of applications. Learning to write efficient, clean, and scalable code is a challenge that I am eager to tackle.
