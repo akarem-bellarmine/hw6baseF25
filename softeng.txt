@@ -1,0 +1,3 @@
+	Software engineering is the process of planning, building, and maintaining software. It includes writing code, testing programs, and fixing errors.
+	In the future, I plan on doing software engineering or something of the like, so this subdiscipline piqued my interest. I am interested in picking up more programming languages and 
+learning how to design and test/improve software, hopefully helping me create programs that work well and are easy to maintain.
